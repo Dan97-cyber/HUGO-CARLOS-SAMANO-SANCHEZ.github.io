@@ -9,5 +9,5 @@ deformed:
 
 now calling it locally
 
-<img width="2324" height="1320" alt="image" src="https://github.com/Dan97-cyber/HUGO-CARLOS-SAMANO-SANCHEZ.github.io/01-1743489053-877709.png" />
+<img width="2324" height="1320" alt="image" src="https://github.com/Dan97-cyber/HUGO-CARLOS-SAMANO-SANCHEZ.github.io/blob/main/01-1743489053-877709.png" />
 
