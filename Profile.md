@@ -1,6 +1,8 @@
 # Profile
+<img width="1700" height="1000" alt="image" src="https://github.com/user-attachments/assets/5656a741-107d-48d7-874c-50acc800502f" />
 
-<img width="139" height="185" alt="image" src="https://github.com/user-attachments/assets/fdc57551-e7e9-454e-992a-36b4d980e614" /> 
+
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/fdc57551-e7e9-454e-992a-36b4d980e614" /> 
 
 **Hugo Carlos Samano Sanchez**  
 
